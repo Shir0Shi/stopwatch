@@ -1,0 +1,26 @@
+main,#start,#stop,#reset{
+    font-size: 110%;
+    font-family: "Comic Sans MS";
+    text-align: center;
+
+}
+#start,#stop,#reset{
+    color: white;
+    width: 75px;
+    border-radius: 15%;
+    text-align: center;
+    padding: 5px;
+}
+#timer{
+    font-size: 300%;
+    color: black;
+}
+#start{
+    background-color: mediumseagreen;
+}
+#stop{
+    background-color: #db2a2a;
+}
+#reset{
+    background-color: orange;
+}
